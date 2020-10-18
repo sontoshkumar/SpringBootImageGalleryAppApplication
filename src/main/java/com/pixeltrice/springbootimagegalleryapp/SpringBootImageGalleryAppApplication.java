@@ -8,7 +8,7 @@ public class SpringBootImageGalleryAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootImageGalleryAppApplication.class, args);
-		System.out.println("hi");
+		
 	}
 
 }
